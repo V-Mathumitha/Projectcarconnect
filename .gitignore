@@ -1,0 +1,24 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio folder
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs and debug
+*.log
+*.pdb
+*.cache
+*.dbmdl
+
+# SQL Server DB files
+*.mdf
+*.ldf
+
+# Output
+*.exe
+*.dll
